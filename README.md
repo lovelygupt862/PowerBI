@@ -1,2 +1,1 @@
-# PowerBI
-This project is a Power BI dashboard designed to analyze and visualize key business metrics. It integrates multiple datasets to provide interactive insights, helping stakeholders make data-driven decisions.
+The objective of this Amazon Sales Dashboard is to provide a comprehensive and interactive visualization of sales performance, customer trends, and product insights. By leveraging Power BI, the dashboard enables stakeholders to make data-driven decisions to optimize sales strategies and improve business performance.
